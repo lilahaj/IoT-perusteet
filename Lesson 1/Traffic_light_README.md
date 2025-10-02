@@ -1,5 +1,7 @@
 Liikennevalot – Raspberry Pi Pico
 
+HUOM! Extra toimintoja lisätty!
+
 Tässä projektissa on toteutettu liikennevalojen logiikka MicroPythonilla Raspberry Pi Pico -kortille.
 Kytkennöissä käytetään kolmea LEDiä (punainen, keltainen, vihreä), jalankulkijan nappia sekä summeria (valinnainen).
 
