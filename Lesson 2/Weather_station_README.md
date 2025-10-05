@@ -17,10 +17,10 @@ Raspberry Pi Pico W (Wi-Fi-malli)
 DHT22-anturi kytketty GPIO 15  
 VCC → 3.3 V  
 GND → GND  
-DATA → GPIO 15 (+ 10 kΩ vastus VCC:hen, jos tarvitaan)
+DATA → GPIO 15
 
 ### Käyttö
 Luo ThingSpeak-tili ja uusi kanava, jossa on kaksi kenttää:  
 Field 1: Temperature (°C)  
 Field 2: Humidity (%)  
-Kopioi oman kanavasi Write API Key ja liitä se muuttujaan
+Kopioi oman kanavasi Write API Key ja liitä se koodissa olevan API:n tilalle
