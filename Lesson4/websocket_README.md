@@ -1,4 +1,4 @@
-# WebSocket-harjoitus – Node.js + HTML-asiakas
+# WebSocket
 ### Tämä projekti koostuu Node.js-palvelimesta ja HTML-asiakassivusta, jotka keskustelevat keskenään WebSocket-yhteyden kautta. Harjoituksen tarkoitus on ymmärtää reaaliaikaisen kaksisuuntaisen yhteyden toiminta.
 
 ### Toiminta
