@@ -15,11 +15,7 @@ LED kytketty GPIO 15 (sarjavastuksen kautta maahan)
 Painonappi kytketty GPIO 14, PULL_DOWN
 
 ### Käyttö
-Lataa koodi Picoon (MicroPython).  
+Lataa koodi Picoon.
 Kytke LED ja nappi ohjeen mukaisiin GPIO-pinneihin.  
 Avaa sarjaportti ja aja ohjelma.  
 Paina nappia LEDin syttyessä, tuplaklikkaa aloittaaksesi uuden kierroksen.
-
-### Säätö
-Koodin alusta voi muuttaa:  
-DBL_WIN – tuplaklikin aikaikkuna (ms), oletus 500
