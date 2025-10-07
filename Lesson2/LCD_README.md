@@ -1,6 +1,5 @@
-# I2C LCD -näyttö – Raspberry Pi Pico / MicroPython
-
-### Tämä ohjelma näyttää tekstin I2C-liitäntäisellä LCD-näytöllä Raspberry Pi Pico -kortilla. Esimerkissä käytetään 20×4-merkkistä näyttöä (4 riviä, 20 merkkiä).
+# LCD -näyttö
+### Tämä ohjelma näyttää tekstin I2C-liitäntäisellä LCD-näytöllä Raspberry Pi Pico -kortilla.
 
 ### Toiminta
 Tulostaa näytölle tekstin:  
