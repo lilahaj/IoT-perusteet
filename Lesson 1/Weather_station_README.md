@@ -1,7 +1,6 @@
-# DHT22-lämpötila- ja kosteusmittaus – Raspberry Pi Pico / MicroPython
+# Lämpötila- ja kosteusmittaus
 
-### Tämä ohjelma lukee lämpötilan ja kosteuden DHT22-sensorista Raspberry Pi Pico -kortilla MicroPythonin avulla.
-### Tulokset tulostetaan sarjaporttiin kahden sekunnin välein.
+### Tämä ohjelma lukee lämpötilan ja kosteuden DHT22-sensorista. Tulokset tulostetaan sarjaporttiin kahden sekunnin välein.
 #
 
 ### Toiminta
@@ -18,8 +17,7 @@ DHT22-anturi kytketty GPIO 15:
 - GND → GND  
 - DATA → GPIO 15
 
-### Käyttö  
-Asenna dht-kirjasto MicroPythonissa (usein sisäänrakennettu).  
-Tallenna ohjelma Picoon nimellä esim. dht22.py.  
-Avaa sarjaportti (Thonny, PuTTY, tms.) ja suorita ohjelma.  
+### Käyttö    
+Tallenna ohjelma Picoon.
+Avaa sarjaportti ja suorita ohjelma.  
 Näet mittaustulokset 2 s välein.
