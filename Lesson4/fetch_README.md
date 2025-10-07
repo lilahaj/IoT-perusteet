@@ -1,4 +1,4 @@
-# ThingSpeak Temperature Fetch – JavaScript + HTML
+# ThingSpeak Temperature Fetch
 ### Tämä projekti hakee lämpötiladatan ThingSpeakista ja näyttää sen selaimessa. Datan käsittely tapahtuu JavaScriptin fetch()-funktiolla.
 
 ### Toiminta
