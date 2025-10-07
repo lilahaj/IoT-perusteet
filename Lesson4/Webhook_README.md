@@ -1,4 +1,4 @@
-# Discord Webhook Notifier – Express API
+# Discord Webhook
 
 ### Tämä on yksinkertainen Node.js (Express) -palvelin, joka lähettää viestejä Discord-kanavalle webhookin kautta. API:n kautta voidaan lähettää JSON-muotoinen viesti, joka välitetään suoraan Discordiin.
 
