@@ -1,9 +1,8 @@
-# Liikennevalot – Raspberry Pi Pico
+# Liikennevalot
 
 *HUOM! Extra toimintoja lisätty!*
 
-### Tässä projektissa on toteutettu liikennevalojen logiikka MicroPythonilla Raspberry Pi Pico -kortille.
-### Kytkennöissä käytetään kolmea LEDiä (punainen, keltainen, vihreä), jalankulkijan nappia sekä summeria (valinnainen).
+### Tässä projektissa on toteutettu liikennevalojen logiikka MicroPythonilla Raspberry Pi Pico -kortille. Kytkennöissä käytetään kolmea LEDiä (punainen, keltainen, vihreä), jalankulkijan nappi sekä buzzeri.
 
 ### Toiminta:  
 Punainen valo palaa aina oletuksena.  
@@ -13,16 +12,13 @@ Syttyy punainen + keltainen yhtä aikaa (1 s).
 Vaihdetaan vihreään (5 s).  
 Sammutetaan vihreä, syttyy keltainen (2 s).  
 Palataan takaisin punaiseen.  
-Nappi toimii vain, jos edellinen sykli ei ole kesken.  
 Lepotilassa aina punainen valo päällä.
-
-
 
 ### Laitteisto:  
 Raspberry Pi Pico  
 LEDit: punainen (Pin 15), keltainen (Pin 14), vihreä (Pin 13)  
 Jalankulkijan nappi (Pin 16, PULL_DOWN)  
-Summeri (Pin 12, valinnainen)
+Buzzeri (Pin 12, valinnainen)
 
 ### Käyttö:  
 Lataa koodi Picoon (MicroPython).  
