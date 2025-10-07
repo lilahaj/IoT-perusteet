@@ -1,6 +1,6 @@
 # Lämpötila ja kosteus ThingSpeakiin
 
-### Tämä ohjelma lukee DHT22-anturin lämpötilan ja kosteuden ja lähettää ne ThingSpeakiin Wi-Fin kautta. Koodi on tarkoitettu Raspberry Pi Pico W -kortille ja MicroPythonille.
+### Tämä ohjelma lukee DHT22-anturin lämpötilan ja kosteuden ja lähettää ne ThingSpeakiin Wi-Fin kautta.
 *EXTRA! Lisätty ilmankosteus.*  
 <img width="1664" height="509" alt="image" src="https://github.com/user-attachments/assets/d5cc0b53-b7ed-4d20-b88c-2eafdab363af" />
 
