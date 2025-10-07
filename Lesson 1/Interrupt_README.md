@@ -1,8 +1,6 @@
-# Reaction Timer – Raspberry Pi Pico / MicroPython (lisätty alustus)
+# Reaction Timer (lisätty alustus)
 
-### Reaktioaikamittari Raspberry Pi Pico -kortille.
-### LED syttyy satunnaisen viiveen jälkeen → paina nappia → ohjelma mittaa ja tulostaa reaktioajan.
-### Tuplaklikkaus aloittaa uuden kierroksen ilman ohjelman uudelleenkäynnistystä.
+### Reaktioaikamittari Raspberry Pi Pico -kortille. LED syttyy satunnaisen viiveen jälkeen → paina nappia → ohjelma mittaa ja tulostaa reaktioajan. Tuplaklikkaus aloittaa uuden kierroksen ilman ohjelman uudelleenkäynnistystä.
 #
 ### Toiminta
 Odottaa satunnaisen ajan 5–10 s.  
