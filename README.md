@@ -7,3 +7,6 @@
 [Interrupt](https://github.com/lilahaj/IoT-perusteet/blob/main/Lesson%201/Interrupt_README.md)  
 [Weather station](https://github.com/lilahaj/IoT-perusteet/blob/main/Lesson%201/Weather_station_README.md)
 
+### Lesson 2
+[LCD]()
+[Weather station WiFi]()
